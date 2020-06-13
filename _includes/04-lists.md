@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Playing Chess
+2. Singing :smile:
+  * Sweet songs
+  * BCS music
+  - Anthem
+  
